@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Kirill 👋🏻
 
-<!--
-**KirillGudkov/KirillGudkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/17552441/113899492-88918b00-97d5-11eb-85a9-4f18f10fab66.gif" width="350px"
+ height="350px" align="right">
 
-Here are some ideas to get you started:
+<p align="left">
+  A software engineer working on cool mobile apps. Spent last 4 years to developing some cross and single platform apps using <strong>React Native</strong> as well as more "traditional" ways
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  In love with <strong>React Native</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Swift</strong> and <strong>Kotlin</strong>
+</p>
+
+## Find me in  :arrow_heading_down:<img src="https://user-images.githubusercontent.com/17552441/113896086-461a7f00-97d2-11eb-9d4d-9161c6ffe9ce.png" width="170px" height="170px" align="left">
+
+<p><a href="https://t.me/KirillGudkovv"><img src="https://user-images.githubusercontent.com/17552441/113891430-bd014900-97cd-11eb-88b9-d5bf9365ebd6.png" width="38px" height="38px"></a></p>
+
+<p><a href="https://www.linkedin.com/in/kirill-gudkov-6b4a66190/"><img src="https://user-images.githubusercontent.com/17552441/113890824-2df43100-97cd-11eb-943c-321d2aa00514.png" width="38px" height="38px"></a></p>
+
+
+### GutHub stats  :chart_with_upwards_trend:
+
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillGudkov&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGudkov&hide=css,html&layout=compact)
