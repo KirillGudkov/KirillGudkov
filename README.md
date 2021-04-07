@@ -20,5 +20,5 @@
 
 ## GutHub stats  :chart_with_upwards_trend:
 
-![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillGudkov&show_icons=true&count_private=true)
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillGudkov&show_icons=true&count_private=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGudkov&hide=css,html&layout=compact)
