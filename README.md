@@ -18,7 +18,7 @@
 <p><a href="https://www.linkedin.com/in/kirill-gudkov-6b4a66190/"><img src="https://user-images.githubusercontent.com/17552441/113890824-2df43100-97cd-11eb-943c-321d2aa00514.png" width="38px" height="38px"></a></p>
 
 
-### GutHub stats  :chart_with_upwards_trend:
+## GutHub stats  :chart_with_upwards_trend:
 
 ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillGudkov&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGudkov&hide=css,html&layout=compact)
